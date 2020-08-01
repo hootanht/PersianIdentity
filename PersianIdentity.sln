@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianIdentity", "PersianIdentity\PersianIdentity.csproj", "{234CB67C-3DA9-4693-986B-4F6428E385EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234CB67C-3DA9-4693-986B-4F6428E385EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234CB67C-3DA9-4693-986B-4F6428E385EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234CB67C-3DA9-4693-986B-4F6428E385EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234CB67C-3DA9-4693-986B-4F6428E385EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5CD816-F07B-4ADA-826A-346699FF9DA5}
+	EndGlobalSection
+EndGlobal
