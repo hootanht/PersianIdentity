@@ -12,7 +12,7 @@ PersianIdentity is an opensource library to change your identity error to persia
 
 
 ## Persian Identity Public Version
-| Target | Branch | Version | Download link | Total downloads | GitHub Action |
+| Target | Branch | Version | Download link | Total downloads | GitHub Actions |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Nuget | master | v1.0.0 | [![NuGet](https://img.shields.io/nuget/v/PersianIdentity.svg)](https://www.nuget.org/packages/PersianIdentity) | [![NuGet downloads](https://img.shields.io/nuget/dt/PersianIdentity.svg)](https://www.nuget.org/packages/PersianIdentity) | <a href="https://github.com/hootanht/PersianIdentity"><img alt="GitHub Actions status" src="https://github.com/hootanht/PersianIdentity/workflows/.NET Core/badge.svg"></a> |
 
