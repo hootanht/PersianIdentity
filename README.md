@@ -16,7 +16,7 @@ PersianIdentity is an opensource library to change your identity error to persia
 | ------ | ------ | ------ | ------ | ------ |
 | Nuget | master | v1.0.0 | [![NuGet](https://img.shields.io/nuget/v/PersianIdentity.svg)](https://www.nuget.org/packages/PersianIdentity) | [![NuGet downloads](https://img.shields.io/nuget/dt/PersianIdentity.svg)](https://www.nuget.org/packages/PersianIdentity) |
 
-  <a href="https://github.com/hootanht/PersianIdentity"><img alt="GitHub Actions status" src="https://github.com/actions/setup-dotnet/workflows/Main%20workflow/badge.svg"></a> 
+  <a href="https://github.com/hootanht/PersianIdentity"><img alt="GitHub Actions status" src="https://github.com/hootanht/PersianIdentity/workflows/.NET Core/badge.svg"></a> 
 
 
 ## Cross Platform
